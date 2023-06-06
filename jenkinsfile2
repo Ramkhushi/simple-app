@@ -22,7 +22,7 @@ pipeline {
                 credentialsId: 'nexus3', 
                 groupId: 'in.javahome', 
                 nexusUrl: '34.16.134.72:8081', 
-                nexusVersion: 'nexus2', 
+                nexusVersion: 'nexus3', 
                 protocol: 'http', 
                 repository: 'http://34.16.134.72:8081/repository/simpleapp-release/', 
                 version: '1.0.0'
